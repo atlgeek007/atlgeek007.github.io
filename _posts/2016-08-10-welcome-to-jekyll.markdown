@@ -1,25 +1,16 @@
 ---
 layout: post
-title:  "Testing out Jekyll."
-date:   2016-08-10 09:24:10 -0400
-categories: jekyll update
+title:  "World of Warcraft: Legion"
+date:   2016-08-12 11:32:00 -0400
+categories: games warcraft
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+If you've been holding out for *World of Warcraft: Legion*, let me say this:
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Don't.
 
-Jekyll also offers powerful support for code snippets:
+I had a chance to play the beta, where I copied over all of my current live characters
+and progressed them all to the mid 100s and the leveling experience is miles ahead of *Warlords of Draenor*, and I thought that expansion had a fantastic leveling experience, you just slammed headfirst into a wall of "nothing to do."
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Blizzard is also talking a good game about learning from their mistakes with *Draenor*, namely too few content patches, and some amount of hubris with their timeline for *Legion* (likely they already have storyboards and are starting the framework for whatever expansion will follow this one)
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+The pre-expansion content went live this past Tuesday, and it's exceedingly well done.  Nothing feels better than flying from a city to a location being invaded by the Burning Legion and seeing a couple dozen other players around you, all headed for one objective.  I hope that the zone events continue into the expansion, so we have the feeling of a vibrant, active world, rather than having people stay in cities until their dungeon queue pops.
