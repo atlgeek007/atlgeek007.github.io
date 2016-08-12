@@ -3,6 +3,11 @@ layout: post
 title:  "World of Warcraft: Legion"
 date:   2016-08-12 11:32:00 -0400
 categories: games warcraft
+tags:
+  - games
+  - warcraft
+  - wow
+  - legion
 ---
 If you've been holding out for *World of Warcraft: Legion*, let me say this:
 
