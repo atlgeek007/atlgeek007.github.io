@@ -70,3 +70,6 @@ permalink: pretty
 markdown: kramdown
 kramdown:
     auto_ids: false
+
+plugins:
+  - "jekyll-paginate"
