@@ -74,6 +74,7 @@ DEPENDENCIES
   chronic
   jekyll (= 4.1.1)
   jekyll-paginate
+  kramdown (~> 2.3.1)
   minima
 
 RUBY VERSION
