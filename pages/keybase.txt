@@ -1,0 +1,80 @@
+---
+permalink: /.well-known/keybase.txt
+---
+
+==================================================================
+https://keybase.io/atlgeek
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://atlgeek.com
+  * I am atlgeek (https://keybase.io/atlgeek) on keybase.
+  * I have a public key with fingerprint 627A 398F 7581 3931 FB36  BC14 6065 AA7F 757D B19F
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010178dcaea2d68f1d4faaab700f5c695996f080b904a17dd7898197b48689727b320a",
+            "fingerprint": "627a398f75813931fb36bc146065aa7f757db19f",
+            "host": "keybase.io",
+            "key_id": "6065aa7f757db19f",
+            "kid": "010178dcaea2d68f1d4faaab700f5c695996f080b904a17dd7898197b48689727b320a",
+            "uid": "e07d91c4421525eab47b50a8cfd1b000",
+            "username": "atlgeek"
+        },
+        "revoke": {
+            "sig_ids": [
+                "929a644c7233ae2acac02c3fd547b21e3a7732f0ebdcbab6c29fab522c605baa0f"
+            ]
+        },
+        "service": {
+            "hostname": "atlgeek.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1470837934,
+    "expire_in": 157680000,
+    "prev": "117da5a0c38dc4431b42d188bc150c07d45c09780ef060a8e2b8de877036409b",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.55
+Comment: https://keybase.io/crypto
+
+yMJuAnicrZJbaBVHGMc3XhqM0fYhjUYEcYqplBBmZmd3Zk4qbbFitVLBClaTcpiZ
+nU22J5492d2klUMSaMXSEtD2QRHFgrXpjQTrQ0urAaM+BFtahFwevGuK12CMlyC0
+xtnQPhR87NMwM//v9/2//8ypeTOtspLdX/z86tLr218p+bV/otXa9D3pLQIZettA
+pghyenrRzZ6Ok2wu8EAGQAQRZZ4SWmDPZT7yiC+EkBRC31Eudzh3fcig5JAIRD2P
+Ms4Qp5Iwl3GKqbQxFKAG+EG+UUeFKMgnButiKmzOfOowZHMb+dJ2pULEha4jBDXn
+1JOI+6awKYzTCmNOiljXBqE5M5vstL2n6P9n363TOA2px5EiBCMHO1pIQqUDBVO+
+hySEMBXGOsqLrdqoRdLcqHUOtNeASLeFOZ3GGgeNxnMMMvWAYy5cQhTFti00Fkoo
+iJXte47BYqRtQamNfailp6SQrsLcF9LBWLnQkUJAH7xr2KZhW6Cm4WlI/21eq8Kt
+xlUhCpNQhc3moilJCnEmNZVsK6TK97XM/sPIyiDvmRcyFW06ioMwDzLIKFUSpFBE
+KGQ25TapAfqDQhDpbJAqHOoyMz1M++g2g0QmSuEIqGyTPSE2kgR7iDHztg5UJkTi
+KMgpg9qHrslPY8k8zSiFtksglyCdqiUfpmzjUzQapgkuL5LWSIP2E8cbZlklZdYz
+s2ekX9cqm/Pcvx/67WWlf81f8olV+1bL5t0TK/cOrum7Wz5cjkdmNFSMHbz7971T
+uy4x8FrVof3LKn6Iirf6zlR21pVnqo8U6dCej3YeuPYo3DA2Mv7T9YGO2z3h1PzV
+3X/cenBzfVepu2R5c/87fZ9b1tWT56PDR+tPZp/9s/vjiYP9C4+O7R3GVT+i+Cy+
+sO/DX967HGxs6Ozii8+Nf/P408KhO68DcdE6XcMXXhzdYW+prni4/qVVi7q/7ul8
+cfy7kStnpipfmJwcunAsWXe/dmqga8283r6B0Tfqq08v7fltuPLxjYbVa0uPZxac
+mLt/+a5c3cvF3/X2odZ1n3V89a3qzff2HNkw+PyKNw8PZm/v3FxR+LKrWPYEdmxh
+TQ==
+=yOeC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/atlgeek
+
+==================================================================
+
